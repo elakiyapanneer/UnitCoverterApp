@@ -1,7 +1,4 @@
-# UnitCoverterApp
-# Unit Converter App
-
-This is a simple Unit Converter application built using Python and Tkinter. The app can convert values between different units like centimeters to inches, kilograms to pounds, and Celsius to Fahrenheit.
+The app can convert values between different units like centimeters to inches, kilograms to pounds, and Celsius to Fahrenheit.
 
 ## Features
 
